@@ -1,0 +1,57 @@
+body{
+  background-color:rgb(200, 26, 68);
+}
+ h1{
+   font-size: 50px;
+   color:rgb(72, 231, 50);
+   font-family:fantasy;
+ }
+ label{
+   font-size: 25px;
+   font-family: sans-serif;
+ }
+ a {
+  background-color: rgb(155, 69, 172);
+  text-decoration: none;
+  font-size: 25px;
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+ }
+ nav{
+   font-size: 20px;
+   width: 100%;
+   height: auto;
+   padding: 10px;
+   background-color: rgb(55, 12, 110);
+   color: rgb(99, 219, 8);
+ }
+ a:hover {
+  background-color: rgb(227, 12, 25, 0.94);
+  text-decoration: underline;
+  font-size: 25px;
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+ }
+ button{
+   width: 100px;
+   height: auto;
+   padding: 5px;
+   font-size: 17px;
+   background-color: rgb(155, 69, 172);
+   color: rgb(255, 255, 255);
+   border-radius: 5px;
+   border-color:rgb(37, 217, 211) ;
+ }
+ button:hover {
+    background-color: rgb(227, 12, 25, 0.94);
+ }
+ .Menu{
+   background-color:none;
+   text-decoration: none;
+   font-size: 25px;
+   padding: 5px;
+   color: rgb(255, 255, 255);
+   border-radius: 5px;
+ }

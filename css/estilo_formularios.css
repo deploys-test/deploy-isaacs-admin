@@ -1,0 +1,25 @@
+.cuerpo{
+ background-color: black;
+}
+.boton{
+  width: auto;
+  height: auto;
+  padding: 10px;
+  background-color: rgb(42, 207, 192);
+  border-radius: 10px;
+  border-color:  rgb(42, 207, 192) ;
+}
+.boton:hover{
+  background-color:rgb(28, 129, 147);
+  border-color: rgb(28, 129, 147);
+}
+.formulario{
+    background-color:white;
+    width: 50%;
+    height: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+.letra{
+  color: white;
+}

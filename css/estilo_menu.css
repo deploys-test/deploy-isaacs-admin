@@ -1,0 +1,33 @@
+
+ h1{
+   font-size: 75px;
+   color:rgb(72, 231, 50);
+   font-family:fantasy;
+ }
+ a{
+   background-color:none;
+   text-decoration: none;
+   font-size: 30px;
+   padding: 5px;
+   color: rgb(255, 255, 255);
+   border-radius: 5px;
+   font-family: fantasy;
+ }
+
+td{
+  background-color: rgb(215, 60, 145);
+}
+td:hover{
+  background-color:rgb(98, 142, 81) ;
+}
+a:hover{
+  text-decoration: underline;
+  font-size: 30px;
+  padding: 5px;
+  color:rgb(33, 226, 58);
+  border-radius: 5px;
+}
+.salir{
+background-color:rgb(57, 29, 231);
+
+}
